@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-Alfa Bot Multi Device is a automated whatsapp bot developed by <a href="TEAM ALFA" target="_blank">
+Alfa Bot Multi Device is a automated whatsapp bot developed by TEAM ALFA PU
 </p>
 
 
