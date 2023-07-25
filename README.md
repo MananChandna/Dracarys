@@ -1,4 +1,4 @@
-
+ 
 
 <h1 align="center">DRACARYS<br></h1>
 <p align="center">
@@ -22,12 +22,12 @@ DRACARYS is a automated whatsapp bot developed by Manan chandna
 <p align="center">
 <a href="https://github.com/DGXeon/followers"><img title="Followers" src="https://img.shields.io/github/followers/DGXeon?color=red&style=flat-square"></a>
 <a href="https://github.com/DGXeon/CheemsBot-MD6/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DGXeon/CheemsBot-MD6?color=blue&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD6/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DGXeon/CheemsBot-MD6?color=red&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD6/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DGXeon/CheemsBot-MD6?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD6"><img title="Open Source" src="https://img.shields.io/badge/Author-Xeon%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD6/"><img title="Size" src="https://img.shields.io/github/repo-size/DGXeon/CheemsBot-MD6?style=flat-square&color=green"></a>
+<a href="https://github.com/DGXeon/CheemsBot-MD6/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DGXeon/DRACARYS-MD6?color=red&style=flat-square"></a>
+<a href="https://github.com/DGXeon/CheemsBot-MD6/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DGXeon/DRACARYS-MD6?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/DGXeon/DRACARYS-MD6"><img title="Open Source" src="https://img.shields.io/badge/Author-Xeon%20Bot%20Inc.-red?v=103"></a>
+<a href="https://github.com/DGXeon/DRACARYS-MD6/"><img title="Size" src="https://img.shields.io/github/repo-size/DGXeon/CheemsBot-MD6?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDGXeon%2FCheemsBot-MD6&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD6/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/DGXeon/DRACARYS-MD6/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
@@ -48,12 +48,6 @@ DRACARYS is a automated whatsapp bot developed by Manan chandna
 <p align="left">
 Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
 </p>
-
-## ```Bot Support Groups```
-
-- [`1st GC`](https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS)
-- [`2nd GC`](https://chat.whatsapp.com/BW0o3ZyiAF5Azb1bIqG9Ue)
-- [`3rd GC`](https://chat.whatsapp.com/KMymhLdGcjPHihOkrfHW7q)
 
 # Setup For Deployment 👇
 
