@@ -1,6 +1,6 @@
 
 
-<h1 align="center">DRACARYS THE CHATBOT<br></h1>
+<h1 align="center">DRACARYS<br></h1>
 <p align="center">
 <img src="https://media2.giphy.com/media/S60CrN9iMxFlyp7uM8/giphy.gif" alt="animated" width="540" height="280" />
 </p>
