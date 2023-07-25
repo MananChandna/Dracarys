@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-Alfa Bot Multi Device is a automated whatsapp bot developed by TEAM ALFA PU
+DRACARYS is a automated whatsapp bot developed by Manan chandna
 </p>
 
 
