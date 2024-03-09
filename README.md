@@ -88,3 +88,5 @@ npm start
 ```bash
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
+<h2>Contact</h2>
+    <p>If you have any questions or suggestions regarding this project, feel free to contact me via <a href="https://www.linkedin.com/in/manan-chandna-697588257/">LinkedIn</a>.</p>
